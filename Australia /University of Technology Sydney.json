@@ -1,233 +1,25 @@
 [
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS Academic Excellence International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for high-performing commencing international students who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 30% of UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS Vice-Chancellor's International Undergraduate Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for high-achieving commencing international students enrolling in an undergraduate program at UTS in Sydney, selected on academic merit and scholarship application responses.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS Academic Merit International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting commencing international students undertaking an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees for 2025 intakes and 15% for 2026 intakes.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS GCE A Level and International Baccalaureate (IB) Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for top-achieving commencing international students completing GCE A Level or IB Diploma and enrolling in an undergraduate program at UTS in Sydney, worth 50% off UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS Southeast Asia International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting commencing international students from Southeast Asia who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS College to UTS Pathways Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting international students from the UTS College pathway program as they articulate into UTS undergraduate degrees, worth 50% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "International Research Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship",
-    "program": "Research",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Research scholarship for high-quality international students commencing a Higher Degree by Research at UTS, with tuition fee support for up to 3.5 years.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "International Research Training Program Scholarship (IRTP)",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
-    "program": "Research",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Australian Government-funded research scholarship for highly ranked commencing HDR students, covering tuition, living allowance, and OSHC.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "UTS Scholarship for European Undergraduate Students",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for commencing international students from Europe enrolling in an undergraduate coursework program at UTS in Sydney, worth 40% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students"
-  },
-  {
-    "universityLogo": "http://tiny.cc/2sbq001",
-    "course": "Scholarship for Gaokao Students from People’s Republic of China",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for top-achieving commencing international students from China who are admitted into an undergraduate program at UTS based on Gaokao results, worth 75% or 50% of UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Academic Excellence International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for high-performing commencing international students who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 30% of UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Vice-Chancellor's International Undergraduate Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for high-achieving commencing international students enrolling in an undergraduate program at UTS in Sydney, selected on academic merit and scholarship application responses.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Academic Merit International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting commencing international students undertaking an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees for 2025 intakes and 15% for 2026 intakes.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS GCE A Level and International Baccalaureate (IB) Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for top-achieving commencing international students completing GCE A Level or IB Diploma and enrolling in an undergraduate program at UTS in Sydney, worth 50% off UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Southeast Asia International Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship",
-    "program": "Undergraduate/Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting commencing international students from Southeast Asia who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS College to UTS Pathways Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship supporting international students from the UTS College pathway program as they articulate into UTS undergraduate degrees, worth 50% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "International Research Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship",
-    "program": "Research",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Research scholarship for high-quality international students commencing a Higher Degree by Research at UTS, with tuition fee support for up to 3.5 years.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "International Research Training Program Scholarship (IRTP)",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
-    "program": "Research",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Australian Government-funded research scholarship for highly ranked commencing HDR students, covering tuition, living allowance, and OSHC.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Scholarship for European Undergraduate Students",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for commencing international students from Europe enrolling in an undergraduate coursework program at UTS in Sydney, worth 40% of tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "Scholarship for Gaokao Students from People’s Republic of China",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china",
-    "program": "Undergraduate",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for top-achieving commencing international students from China who are admitted into an undergraduate program at UTS based on Gaokao results, worth 75% or 50% of UTS tuition fees.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china"
-  },
-
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Vice-Chancellor's International Postgraduate Coursework Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-postgraduate-coursework-scholarship",
-    "program": "Postgraduate Coursework",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship to support high-achieving commencing international students enrolling in a postgraduate coursework program at UTS in Sydney, awarded based on academic merit and scholarship application responses.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-postgraduate-coursework-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS President's Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-presidents-scholarship",
-    "program": "Research (HDR)",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship for international Higher Degree by Research students demonstrating exceptional research potential, assisting with general living costs while completing their research degree.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-presidents-scholarship"
-  },
-  {
-    "universityLogo": "https://www.uts.edu.au/globalassets/restricted/media/all-pages-sitewide/footer/restricteduts-logofooter.svg",
-    "course": "UTS Toshiba Nathan Godby Engineering Scholarship",
-    "scholarshipLink": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-toshiba-nathan-godby-engineering-scholarship",
-    "program": "Undergraduate Engineering",
-    "country": "Australia",
-    "university": "University of Technology Sydney",
-    "scholarshipDetail": "Scholarship to support international students enrolled in engineering and technology programs at UTS, providing financial assistance and industry engagement opportunities.",
-    "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-toshiba-nathan-godby-engineering-scholarship"
-  }
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Academic Excellence International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for high-performing commencing international students who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 30% of UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Vice-Chancellor's International Undergraduate Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for high-achieving commencing international students enrolling in an undergraduate program at UTS in Sydney, selected on academic merit and scholarship application responses.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Academic Merit International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting commencing international students undertaking an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees for 2025 intakes and 15% for 2026 intakes.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS GCE A Level and International Baccalaureate (IB) Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for top-achieving commencing international students completing GCE A Level or IB Diploma and enrolling in an undergraduate program at UTS in Sydney, worth 50% off UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Southeast Asia International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting commencing international students from Southeast Asia who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS College to UTS Pathways Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting international students from the UTS College pathway program as they articulate into UTS undergraduate degrees, worth 50% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"International Research Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship","program":"Research","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Research scholarship for high-quality international students commencing a Higher Degree by Research at UTS, with tuition fee support for up to 3.5 years.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"International Research Training Program Scholarship (IRTP)","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp","program":"Research","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Australian Government-funded research scholarship for highly ranked commencing HDR students, covering tuition, living allowance, and OSHC.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Scholarship for European Undergraduate Students","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for commencing international students from Europe enrolling in an undergraduate coursework program at UTS in Sydney, worth 40% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"Scholarship for Gaokao Students from People’s Republic of China","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for top-achieving commencing international students from China who are admitted into an undergraduate program at UTS based on Gaokao results, worth 75% or 50% of UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Academic Excellence International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for high-performing commencing international students who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 30% of UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-excellence-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Vice-Chancellor's International Undergraduate Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for high-achieving commencing international students enrolling in an undergraduate program at UTS in Sydney, selected on academic merit and scholarship application responses.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Academic Merit International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting commencing international students undertaking an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees for 2025 intakes and 15% for 2026 intakes.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS GCE A Level and International Baccalaureate (IB) Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for top-achieving commencing international students completing GCE A Level or IB Diploma and enrolling in an undergraduate program at UTS in Sydney, worth 50% off UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-gce-a-level-and-international-baccalaureate-ib-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Southeast Asia International Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship","program":"Undergraduate/Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting commencing international students from Southeast Asia who wish to undertake an undergraduate or postgraduate coursework program at UTS in Sydney, worth 20% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-southeast-asia-international-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS College to UTS Pathways Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship supporting international students from the UTS College pathway program as they articulate into UTS undergraduate degrees, worth 50% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-college-to-uts-pathways-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"International Research Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship","program":"Research","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Research scholarship for high-quality international students commencing a Higher Degree by Research at UTS, with tuition fee support for up to 3.5 years.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"International Research Training Program Scholarship (IRTP)","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp","program":"Research","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Australian Government-funded research scholarship for highly ranked commencing HDR students, covering tuition, living allowance, and OSHC.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Scholarship for European Undergraduate Students","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for commencing international students from Europe enrolling in an undergraduate coursework program at UTS in Sydney, worth 40% of tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-european-undergraduate-students"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"Scholarship for Gaokao Students from People’s Republic of China","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china","program":"Undergraduate","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for top-achieving commencing international students from China who are admitted into an undergraduate program at UTS based on Gaokao results, worth 75% or 50% of UTS tuition fees.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/scholarship-for-gaokao-students-from-peoples-republic-of-china"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Vice-Chancellor's International Postgraduate Coursework Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-postgraduate-coursework-scholarship","program":"Postgraduate Coursework","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship to support high-achieving commencing international students enrolling in a postgraduate coursework program at UTS in Sydney, awarded based on academic merit and scholarship application responses.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-postgraduate-coursework-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS President's Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-presidents-scholarship","program":"Research (HDR)","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship for international Higher Degree by Research students demonstrating exceptional research potential, assisting with general living costs while completing their research degree.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-presidents-scholarship"},
+  {"universityLogo":"http://tiny.cc/2sbq001","course":"UTS Toshiba Nathan Godby Engineering Scholarship","scholarshipLink":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-toshiba-nathan-godby-engineering-scholarship","program":"Undergraduate Engineering","country":"Australia","university":"University of Technology Sydney","scholarshipDetail":"Scholarship to support international students enrolled in engineering and technology programs at UTS, providing financial assistance and industry engagement opportunities.","link":"https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-toshiba-nathan-godby-engineering-scholarship"}
 ]
