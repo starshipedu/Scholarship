@@ -1,52 +1,7 @@
 [
-  {
-    "universityLogo": "https://www.rmit.edu.au/favicon.ico",
-    "course": "Academic Merit Scholarship",
-    "scholarshipLink": "https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-southeast-asia",
-    "program": "Multi-level",
-    "country": "Australia",
-    "university": "RMIT University",
-    "scholarshipDetail": "20% tuition fee reduction for eligible courses; available to citizens of Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, and Vietnam",
-    "link": "https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-southeast-asia"
-  },
-  {
-    "universityLogo": "https://www.rmit.edu.au/favicon.ico",
-    "course": "COBL Academic Merit Scholarships for Vietnam",
-    "scholarshipLink": "https://www.rmit.edu.au/scholarships/international-scholarships/cobl-academic-merit-scholarships-for-vietnam",
-    "program": "Undergraduate/Postgraduate",
-    "country": "Australia",
-    "university": "RMIT University",
-    "scholarshipDetail": "25% tuition fee reduction for eligible programs; available to citizens of Vietnam applying offshore",
-    "link": "https://www.rmit.edu.au/scholarships/international-scholarships/cobl-academic-merit-scholarships-for-vietnam"
-  },
-  {
-    "universityLogo": "https://www.rmit.edu.au/favicon.ico",
-    "course": "English to Foundation Studies/Fast Track Pathway Bursary",
-    "scholarshipLink": "https://www.rmit.edu.au/study-with-us/international-students/programs-for-international-students/foundation-studies/bursaries",
-    "program": "Pathway",
-    "country": "Australia",
-    "university": "RMIT University",
-    "scholarshipDetail": "10% bursary on Academic English language pathways for students from eligible regions in Southeast and East Asia, China, and North Asia who plan to progress to Foundation Studies or Fast Track in 2026",
-    "link": "https://www.rmit.edu.au/study-with-us/international-students/programs-for-international-students/foundation-studies/bursaries"
-  },
-  {
-    "universityLogo": "https://www.rmit.edu.au/favicon.ico",
-    "course": "RMIT Vietnam Alumni Postgraduate Scholarship",
-    "scholarshipLink": "https://www.rmit.edu.au/scholarships/international-scholarships/rmit-vietnam-alumni-postgraduate-scholarship",
-    "program": "Postgraduate",
-    "country": "Australia",
-    "university": "RMIT University",
-    "scholarshipDetail": "10% tuition fee reduction for RMIT Vietnam alumni who commence a Masters by Coursework program at RMIT Australia",
-    "link": "https://www.rmit.edu.au/scholarships/international-scholarships/rmit-vietnam-alumni-postgraduate-scholarship"
-  },
-  {
-    "universityLogo": "https://www.rmit.edu.au/favicon.ico",
-    "course": "RMIT UP Academic English Bursary for Asia",
-    "scholarshipLink": "https://www.rmit.edu.au/scholarships/international-scholarships/rmit-up-english-bursary-for-asia",
-    "program": "Pathway",
-    "country": "Australia",
-    "university": "RMIT University",
-    "scholarshipDetail": "10% tuition fee discount for Academic English courses in 2026 for citizens of Cambodia, Japan, Laos, South Korea, Taiwan, Thailand, or Vietnam",
-    "link": "https://www.rmit.edu.au/scholarships/international-scholarships/rmit-up-english-bursary-for-asia"
-  }
+  {"universityLogo":"https://www.rmit.edu.au/favicon.ico","course":"Academic Merit Scholarship","scholarshipLink":"https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-southeast-asia","program":"Multi-level","country":"Australia","university":"RMIT University","scholarshipDetail":"20% tuition fee reduction for eligible courses; available to citizens of Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, and Vietnam","link":"https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-southeast-asia"},
+  {"universityLogo":"https://www.rmit.edu.au/favicon.ico","course":"COBL Academic Merit Scholarships for Vietnam","scholarshipLink":"https://www.rmit.edu.au/scholarships/international-scholarships/cobl-academic-merit-scholarships-for-vietnam","program":"Undergraduate/Postgraduate","country":"Australia","university":"RMIT University","scholarshipDetail":"25% tuition fee reduction for eligible programs; available to citizens of Vietnam applying offshore","link":"https://www.rmit.edu.au/scholarships/international-scholarships/cobl-academic-merit-scholarships-for-vietnam"},
+  {"universityLogo":"https://www.rmit.edu.au/favicon.ico","course":"English to Foundation Studies/Fast Track Pathway Bursary","scholarshipLink":"https://www.rmit.edu.au/study-with-us/international-students/programs-for-international-students/foundation-studies/bursaries","program":"Pathway","country":"Australia","university":"RMIT University","scholarshipDetail":"10% bursary on Academic English language pathways for students from eligible regions in Southeast and East Asia, China, and North Asia who plan to progress to Foundation Studies or Fast Track in 2026","link":"https://www.rmit.edu.au/study-with-us/international-students/programs-for-international-students/foundation-studies/bursaries"},
+  {"universityLogo":"https://www.rmit.edu.au/favicon.ico","course":"RMIT Vietnam Alumni Postgraduate Scholarship","scholarshipLink":"https://www.rmit.edu.au/scholarships/international-scholarships/rmit-vietnam-alumni-postgraduate-scholarship","program":"Postgraduate","country":"Australia","university":"RMIT University","scholarshipDetail":"10% tuition fee reduction for RMIT Vietnam alumni who commence a Masters by Coursework program at RMIT Australia","link":"https://www.rmit.edu.au/scholarships/international-scholarships/rmit-vietnam-alumni-postgraduate-scholarship"},
+  {"universityLogo":"https://www.rmit.edu.au/favicon.ico","course":"RMIT UP Academic English Bursary for Asia","scholarshipLink":"https://www.rmit.edu.au/scholarships/international-scholarships/rmit-up-english-bursary-for-asia","program":"Pathway","country":"Australia","university":"RMIT University","scholarshipDetail":"10% tuition fee discount for Academic English courses in 2026 for citizens of Cambodia, Japan, Laos, South Korea, Taiwan, Thailand, or Vietnam","link":"https://www.rmit.edu.au/scholarships/international-scholarships/rmit-up-english-bursary-for-asia"}
 ]
